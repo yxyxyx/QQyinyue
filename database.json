@@ -1,0 +1,37 @@
+[
+  {
+    "filename": "./music/1.mp3",
+    "duration": "04:20",
+    "title": "天空之城 - 钢琴版",
+    "album": "天空之城",
+    "artist": "郭燕"
+  },
+  {
+    "filename": "./music/2.mp3",
+    "duration": "04:04",
+    "title": "花的微笑",
+    "album": "夜的钢琴曲-石进原创钢琴曲14首",
+    "artist": "石进"
+  },
+  {
+    "filename": "./music/3.mp3",
+    "duration": "02:19",
+    "title": "下雨时你会想起谁",
+    "album": "夜的钢琴曲-石进原创钢琴曲14首",
+    "artist": "石进"
+  },
+  {
+    "filename": "./music/4.mp3",
+    "duration": "02:13",
+    "title": "夜的钢琴曲五",
+    "album": "夜的钢琴曲 Demo集",
+    "artist": "石进"
+  },
+  {
+    "filename": "./music/5.mp3",
+    "duration": "02:44",
+    "title": "One Man's Dream",
+    "album": "Ultimate Yanni",
+    "artist": "雅尼"
+  }
+]
